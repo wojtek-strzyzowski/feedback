@@ -1,0 +1,21 @@
+.navbar{
+    display: felx;
+    justify-content: center;
+}  
+
+.container1{
+    display: flex;
+    justify-content: center;
+}
+
+i{
+    font-size: 100px;
+    color: blue;
+}
+
+.container2{
+    display: flex;
+
+    justify-content: space-around;
+}
+
