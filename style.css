@@ -1,7 +1,19 @@
-.navbar{
-    display: felx;
+header{
+    display: flex;
     justify-content: center;
+    align-items: center;
 }  
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#gesamt{
+    max-width: 40vw;
+    text-align: center;
+}
 
 .container1{
     display: flex;
@@ -19,3 +31,8 @@ i{
     justify-content: space-around;
 }
 
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
